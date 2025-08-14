@@ -462,7 +462,7 @@ packages:
     source: hosted
     version: "2.3.0"
   permission_handler:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: permission_handler
       sha256: bc917da36261b00137bbc8896bf1482169cd76f866282368948f032c8c1caae1
@@ -667,7 +667,7 @@ packages:
     source: hosted
     version: "2.1.4"
   stream_video:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: stream_video
       sha256: "552c738bbf822c79cc1e4f57c5fa9b1eb3a0d93d1dc166e9451d68223b90207f"
@@ -675,7 +675,7 @@ packages:
     source: hosted
     version: "0.10.2"
   stream_video_flutter:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: stream_video_flutter
       sha256: ffc045cc5b7d9684c96ab342d64862bcf2cae00ba0cfcfd4636e2c1105bc7c55

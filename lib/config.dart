@@ -1,0 +1,4 @@
+const streamApiKey = 'mmhfdzb5evj2';
+const predefinedRoomId = 'a1Y3sS5MNuOYsJRCAVRkR';
+const userToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL3Byb250by5nZXRzdHJlYW0uaW8iLCJzdWIiOiJ1c2VyL1RyYW5zbHVjZW50X1ByaW5jZXNzIiwidXNlcl9pZCI6IlRyYW5zbHVjZW50X1ByaW5jZXNzIiwidmFsaWRpdHlfaW5fc2Vjb25kcyI6NjA0ODAwLCJpYXQiOjE3NTUwMDY4MDQsImV4cCI6MTc1NTYxMTYwNH0.9qbIXHE2nIM1C6-GXVBCbpf9CCJMHvod4s_xQs-Hfdk';
+

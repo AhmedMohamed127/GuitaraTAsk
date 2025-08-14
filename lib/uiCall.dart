@@ -5,9 +5,9 @@ class CallScreen extends StatelessWidget {
   final Call call;
 
   const CallScreen({
-    Key? key,
+    super.key,
     required this.call,
-  }) : super(key: key);
+  });
 
   @override
   Widget build(BuildContext context) {
@@ -32,7 +32,6 @@ class CallScreen extends StatelessWidget {
             ) {
           return StreamCallContent(
             call: call,
-            callState: callState,
             callControlsBuilder: (
                 BuildContext context,
                 Call call,
